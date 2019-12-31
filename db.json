@@ -1,0 +1,35 @@
+{
+  "family": [
+    {
+      "id": "4568",
+      "firstName": "Clark",
+      "middleName": "G",
+      "lastName": "Kent",
+      "birthPlace": "Metropolis City"
+
+    },
+    {
+      "id": "4569",
+      "firstName": "Diana",
+      "middleName": "D",
+      "lastName": "Spencer",
+      "birthPlace": "Amazon City"
+
+    },
+    {
+      "firstName": "Ruby",
+      "middleName": "K",
+      "lastName": "Jane",
+      "birthPlace": "Davao City"
+
+    },
+    {
+      "firstName": "Kairo",
+      "MiddleName": "C",
+      "lastName": "Juan",
+      "birthPlace": "Antipolo City"
+
+    }
+
+  ]
+}
